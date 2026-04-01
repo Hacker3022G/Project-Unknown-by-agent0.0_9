@@ -24,7 +24,7 @@ Project: Unknown hides every player's identity on the server. All players share 
 
 ## CRITICAL DEPENDENCY
 
-- [NickAPI](https://www.spigotmc.org/resources/nickapi.26013/) 7.11+ (Use the fixed verison)
+- [NickAPI](https://github.com/Hacker3022G/NickAPI-7.11-Fixed-by-Agent) 7.11+ (Use the fixed verison)
 - Without The [NickApi] The Project:Unknown would not work.
 
 ---
