@@ -1,0 +1,18 @@
+Project: Unknown License
+
+Copyright (c) 2026 agent0.0_9
+
+This plugin is private software.
+You are allowed to use this plugin on your Minecraft server,
+but you are NOT allowed to:
+
+- Modify the plugin
+- Decompile the plugin
+- Redistribute the plugin
+- Upload the plugin to other websites
+- Claim the plugin as your own work
+
+ Project: Unknown concept by Lusik21556.
+Fork , maintenance and Fixed by agent0.0_9.
+
+All rights reserved.
