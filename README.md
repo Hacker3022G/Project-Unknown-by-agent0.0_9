@@ -13,12 +13,12 @@ Project: Unknown hides every player's identity on the server. All players share 
 
 ## Features
 
-- 🎭 **Full Anonymity** — All players are renamed to `Player` with a shared skin and a unique fake UUID
-- 🧭 **Detective's Compass** — Right-click to track a random player. Shows direction arrow, distance, and a countdown timer on your action bar
-- 🔔 **Bell of Truth** — Place and ring a special bell to reveal the real identity of nearby players temporarily (glowing + red name)
-- ⚔️ **Catching System** — Kill a player with a sword named after their real name to catch and ban them
-- 📢 **Anonymous Messages** — Join, quit, death, and advancement messages never reveal real names
-- 🔄 **Auto skin & nick on join** — Applied automatically when a player joins
+-  **Full Anonymity** — All players are renamed to `Player` with a shared skin and a unique fake UUID
+-  **Detective's Compass** — Right-click to track a random player. Shows direction arrow, distance, and a countdown timer on your action bar
+-  **Bell of Truth** — Place and ring a special bell to reveal the real identity of nearby players temporarily (glowing + red name)
+-  **Catching System** — Kill a player with a sword named after their real name to catch and ban them
+-  **Anonymous Messages** — Join, quit, death, and advancement messages never reveal real names
+-  **Auto skin & nick on join** — Applied automatically when a player joins
 
 ---
 
